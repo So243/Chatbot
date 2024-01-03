@@ -1,10 +1,5 @@
 # Chatbot
 
-Certainly! Here's a README file for your chatbot program:
-
----
-
-# Python Chatbot
 
 ## Description
 
